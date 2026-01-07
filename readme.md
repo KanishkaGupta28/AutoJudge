@@ -157,8 +157,9 @@ Random Forest captures non-linear patterns better than Linear Regression.
 The complete pipeline is illustrated below:
 
 <p align="center">
-  <img src="assets/architecture_diagram.png" width="600">
+  <img src="./assets/architecture_diagram.png" width="600" alt="AutoJudge Architecture Diagram">
 </p>
+
 
 
 **Flow:**
@@ -260,6 +261,7 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
 
