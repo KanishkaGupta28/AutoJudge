@@ -209,8 +209,8 @@ The app runs locally and requires no external APIs.
 ```bash
 git clone https://github.com/your-username/AutoJudge.git
 cd AutoJudge
-
-### 2. Create Virtual Environment
+```
+###  Create Virtual Environment
 ```
 python -m venv venv
 # Windows
@@ -219,7 +219,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3. Install Dependencies
+###  Install Dependencies
 ```
 pip install -r requirements.txt
 ```
@@ -257,5 +257,6 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
