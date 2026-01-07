@@ -43,7 +43,7 @@ AutoJudge/
 ├── assets/
 │ ├── eda_distribution.png # Data exploration visual
 │ ├── architecture.png # System architecture diagram
-│ ├── classification_results.png# Classification comparison
+│ ├── classification_results.png # Classification comparison
 │ └── regression_results.png # Regression comparison
 │
 ├── requirements.txt
@@ -260,6 +260,7 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
 
