@@ -151,12 +151,11 @@ Predict the continuous difficulty score.
 Random Forest captures non-linear patterns better than Linear Regression.
 
 ---
-
-<h2>System Architecture</h2>
-
+## System Architecture
 <p align="center">
-  <img src="assets/architecture.png" width="750">
+  <img src="assets/architecture.png" width="650">
 </p>
+
 
 
 
@@ -261,6 +260,7 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
 
