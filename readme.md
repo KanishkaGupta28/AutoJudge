@@ -202,14 +202,14 @@ Due to GitHub’s file size limitation (25 MB per file), the trained machine lea
 1. Download the folder from Google Drive.
 2. Extract it (if downloaded as a ZIP file).
 3. Place all `.pkl` files inside the following directory:
-
+```
 AutoJudge/
 └── models/
 ├── difficulty_classifier.pkl
 ├── difficulty_regressor.pkl
 └── tfidf_vectorizer.pkl
 
-
+```
 ##  Web Application
 
 The Streamlit web interface allows users to:
@@ -279,6 +279,7 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
 
