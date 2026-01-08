@@ -191,6 +191,24 @@ The application displays the following results:
 
 The interface is designed to be **simple, responsive, and user-friendly**, making AutoJudge suitable for quick evaluation and practical usage.
 
+## Trained Models (Required for Execution)
+
+Due to GitHub’s file size limitation (25 MB per file), the trained machine learning models are hosted externally on Google Drive.
+
+ **Download all trained models from Google Drive:**  
+👉 https://drive.google.com/drive/folders/1CKw7pgkNJEGMp7LHiunGrGplY5LdwsmZ?usp=sharing
+
+### Steps after downloading:
+1. Download the folder from Google Drive.
+2. Extract it (if downloaded as a ZIP file).
+3. Place all `.pkl` files inside the following directory:
+
+AutoJudge/
+└── models/
+├── difficulty_classifier.pkl
+├── difficulty_regressor.pkl
+└── tfidf_vectorizer.pkl
+
 
 ##  Web Application
 
@@ -261,6 +279,7 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
 
