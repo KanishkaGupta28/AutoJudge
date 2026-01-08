@@ -233,8 +233,9 @@ streamlit run app/app.py
 ```
 ### 5. Demo Video
 
-- Demo video:  
-👉 [Click to download/watch](demo/demo_video.mp4)
+- **Demo Video (2–3 minutes):**  
+👉 [Watch on Google Drive](https://drive.google.com/file/d/1I5jTJSMbkrvm5KTmq9sNNy98vf6nD4cG/view?usp=sharing)  
+👉 [Download from GitHub](demo/demo_video.mp4)
 
 ## Conclusion
 
@@ -260,6 +261,7 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
 
