@@ -228,7 +228,7 @@ The app runs locally and requires no external APIs.
 
 ###  Clone the Repository
 ```bash
-git clone https://github.com/your-username/AutoJudge.git
+git clone https://github.com/KanishkaGupta28/AutoJudge.git
 cd AutoJudge
 ```
 ###  Create Virtual Environment
@@ -279,6 +279,7 @@ This approach is **efficient**, **interpretable**, and **scalable**, making it w
 ###  Project Overview
 This project was developed as an **academic and applied machine learning system** that demonstrates the use of **text-based NLP features** combined with **ensemble learning models** to automatically estimate the difficulty level of programming problems.  
 The system emphasizes practical usability, interpretability, and real-time prediction through a web-based interface.
+
 
 
 
